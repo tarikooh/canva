@@ -32,7 +32,9 @@ $ g++ draw.cpp glad.c -lglfw -lGL -o ../bin/draw
 
 ##  Demo
 
-![demo](https://github.com/user-attachments/assets/880e9053-1c1c-4494-86c9-ace3f6161ff3)
+
+https://github.com/user-attachments/assets/9ed0e529-e4d5-484e-9672-3287793ab03f
+
 
 ##  License
 BSD LICENSE
