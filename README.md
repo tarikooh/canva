@@ -19,6 +19,7 @@ A lightweight C++ drawing application built with **OpenGL** and **GLFW**, featur
 
 ##  Build Instructions on Linux
 $ cd src
+
 $ g++ draw.cpp glad.c -lglfw -lGL -o ../bin/draw
 
 ##  Controls
