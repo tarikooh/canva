@@ -5,7 +5,7 @@ A lightweight C++ drawing application built with **OpenGL** and **GLFW**, featur
 - Mouse-based freehand drawing
 - Multiple brush colors and sizes (keyboard controlled)
 - PNG saving using [`stb_image_write.h`](https://github.com/nothings/stb)
-- Color preview in Upper Right Corner
+- Color preview in Upper Left Corner
 
 ---
 
