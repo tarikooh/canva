@@ -1,4 +1,4 @@
-# 🎨 Simple OpenGL Drawing Program
+# Simple OpenGL Drawing Program
 
 A lightweight C++ drawing application built with **OpenGL** and **GLFW**, featuring:
 
@@ -9,7 +9,7 @@ A lightweight C++ drawing application built with **OpenGL** and **GLFW**, featur
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - C++17 
 - OpenGL (4.6)
@@ -17,11 +17,12 @@ A lightweight C++ drawing application built with **OpenGL** and **GLFW**, featur
 - GLAD
 - [`stb_image_write.h`](https://github.com/nothings/stb)
 
-## 🛠️ Build Instructions on Linux
-cd src
-g++ draw.cpp glad.c -lglfw -lGL -o ../bin/draw
+##  Build Instructions on Linux
+$ cd src
 
-## 🛠️ Controls
+$ g++ draw.cpp glad.c -lglfw -lGL -o ../bin/draw
+
+##  Controls
 Mouse Left	Draw
 C	Cycle brush color
 J / K	Decrease / Increase brush size
@@ -29,8 +30,8 @@ S	Save drawing to PNG (with timestamp)
 R	Clear canvas
 Q	Exit
 
-## 🛠️ CDemo
+##  CDemo
 
 
-## 🛠️ CLicense
+##  CLicense
 BSD LICENSE
