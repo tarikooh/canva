@@ -23,15 +23,16 @@ $ cd src
 $ g++ draw.cpp glad.c -lglfw -lGL -o ../bin/draw
 
 ##  Controls
-Mouse Left	Draw
-C	Cycle brush color
-J / K	Decrease / Increase brush size
-S	Save drawing to PNG (with timestamp)
-R	Clear canvas
-Q	Exit
+- Mouse Left	Draw
+- C	Cycle brush color
+- J / K	Decrease / Increase brush size
+- S	Save drawing to PNG (with timestamp)
+- R	Clear canvas
+- Q	Exit
 
-##  CDemo
+##  Demo
 
+![demo](https://github.com/user-attachments/assets/880e9053-1c1c-4494-86c9-ace3f6161ff3)
 
-##  CLicense
+##  License
 BSD LICENSE
